@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b4d356b-dce8-4a92-a3bc-d9eb10e63dd6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/JavaInterview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/atomic/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/atomic/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/atomic/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/cas/ABADemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/cas/CASDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/javavolatile/VolatileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/queue/BlockQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/setlistmap/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/atomic/AtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcurrent/src/com/akexiu/atomic/AtomicDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaInterview" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YnEy6kMnKbI4S6b9THg8gWV9w7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaConcurrent" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="$PROJECT_DIR$/JavaConcurrent" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ArrayListDemo">
+    <configuration name="ABADemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akexiu.cas.ABADemo" />
+      <module name="JavaInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akexiu.cas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akexiu.setlistmap.ArrayListDemo" />
+      <module name="JavaInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akexiu.setlistmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CASDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akexiu.cas.CASDemo" />
+      <module name="JavaInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akexiu.cas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akexiu.atomic.SemaphoreDemo" />
+      <module name="JavaInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akexiu.atomic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolatileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.akexiu.javavolatile.VolatileDemo" />
+      <module name="JavaInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.akexiu.javavolatile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.ABADemo" />
+        <item itemvalue="Application.CASDemo" />
+        <item itemvalue="Application.VolatileDemo" />
+        <item itemvalue="Application.SemaphoreDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b4d356b-dce8-4a92-a3bc-d9eb10e63dd6" name="Default Changelist" comment="" />
+      <created>1583570209493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583570209493</updated>
+      <workItem from="1583570211733" duration="2134000" />
+      <workItem from="1583572369313" duration="1327000" />
+      <workItem from="1583573718051" duration="8952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1583573400131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1583573400131" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583573511499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583573511499" />
+    <state x="561" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1583572710537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1583572710537" />
+    <state x="570" y="156" key="FileChooserDialogImpl" timestamp="1583573677725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583573677725" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1583587110937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583587110937" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1583587110937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583587110937" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1583587110937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583587110937" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1583587110937">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583587110937" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1583573844998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583573844998" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1583573717832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583573717832" />
+    <state x="499" y="172" key="extract.method.dialog" timestamp="1583587005819">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="172" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1583587005819" />
+    <state x="511" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1583572557667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="35" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1583572557667" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583586926897">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583586926897" />
+  </component>
+</project>

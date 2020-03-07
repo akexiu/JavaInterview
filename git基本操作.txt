@@ -1,0 +1,41 @@
+初始化：           git init
+从github获取项目： git clone https://github.com/***.git
+
+
+使用IDEA提交代码到GitHub
+1,Settings–>Version Control–>Git-->Create Git Repository  git用户名和密码登录
+
+2 上传项目到本地仓库
+项目右键选择Git->add,此时项目文件变成绿色，此时文件只是处于暂存区，并没有真正进入到版本库中
+
+3,Git->Commit Directory，在弹窗中输入Commit Message，点击commit，此时项目文件从暂存区真正进入版本库中，项目文件变成白色
+
+4，右键项目-git-->Repository--->push  提交至github远程仓库
+
+
+命令提交
+创建秘钥
+ ssh-keygen -t rsa -C "your email"
+git config --global user.email "your email"
+git config --global user.name "your name"
+
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin ssh://git@github.com:akexiu/JavaInterview.git
+git push -u origin 分支名（master）
+git push -u origin  master
+代码合并
+git pull --rebase origin master
+
+免密登录
+ssh -T git@github.com
+
+删除历史提交记录
+git log
+git reset --hard  7c781f71e250854b8e65c4d4924bb4a1c6772570
+git push origin HEAD --force
+
+
+ 

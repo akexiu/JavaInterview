@@ -8,4 +8,5 @@ package com.akexiu.atomic;
  * @create 2020-03-07 14:52
  */
 public class AtomicDemo {
+
 }
